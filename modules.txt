@@ -1,0 +1,15 @@
+npm-run-all - concurrent tasks
+nsp - node security platform - package security scans
+eslint-watch - file watcher
+
+MAYBE REMOVE:
+eslint-plugin-import - further linting for imports.
+jsdom - virtual dom
+
+TO REMOVE:
+localtunnel - turns dev box into exposed end point
+babel - transpiler
+
+mocha - test framework
+chai - assertion library
+cheerio - jquery like for tests.
