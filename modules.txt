@@ -1,10 +1,19 @@
+UPDATE VERSIONS
+
 npm-run-all - concurrent tasks
 nsp - node security platform - package security scans
 eslint-watch - file watcher
+whatwg-fetch - fetch (new standard) http calls
+compression - enables gzip compression in express.
+html-webpack-plugin - dynamic insertion of script reference in HTML to generated bundle.
+webpack-md5-hash - used for cache busting to generate unique file names
+extract-text-webpack-plugin - used to create separate bundle for css.
 
 MAYBE REMOVE:
 eslint-plugin-import - further linting for imports.
 jsdom - virtual dom
+json-schema-faker / json-server - fake APIs
+rimraf - cross platform remove files
 
 TO REMOVE:
 localtunnel - turns dev box into exposed end point
